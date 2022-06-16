@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-gUmpobz6LO)
-- Live Site URL: [Testimonials grid section](https://axldev96.github.io/testimonials-grid-section/()
+- Live Site URL: [Testimonials grid section](https://axldev96.github.io/testimonials-grid-section/)
 
 ## My process
 

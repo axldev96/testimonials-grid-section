@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-html-css-js-pdjpIIK_bu)
-- Live Site URL: [Testimonials grid section](https://axldev96.github.io/interactive_rating_component/)
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/testimonials-grid-section-gUmpobz6LO)
+- Live Site URL: [Testimonials grid section](https://axldev96.github.io/testimonials-grid-section/()
 
 ## My process
 

@@ -12,7 +12,7 @@ async function userCard() {
       <section class="card ${className}">
         <header class="card-header">
           <img class="user-pic" src="${pic}" alt="${username} pic" />
-          <h2 class="username">${username}</h2>
+          <h1 class="username">${username}</h1>
           <p class="verified">${verified}</p>
         </header>
         <div class="mainquote">

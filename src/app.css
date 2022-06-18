@@ -49,10 +49,16 @@ img {
   max-width: 100%;
 }
 
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
 /* ////// card ////// */
 
 .container {
-  margin: 8rem auto;
   gap: 3rem;
   width: 90%;
   display: grid;
